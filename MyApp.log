@@ -52,4 +52,4 @@
 2022-10-13 10:15:53,547 [main] INFO  com.JPlogger.JpLoggerApplicationTests              - Starting JpLoggerApplicationTests using Java 17.0.3 on DESKTOP-HCD0GN6 with PID 13892 (started by User in C:\Users\User\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\JP-logger)
 2022-10-13 10:15:53,556 [main] INFO  com.JPlogger.JpLoggerApplicationTests              - No active profile set, falling back to 1 default profile: "default"
 2022-10-13 10:15:55,448 [main] INFO  com.JPlogger.JpLoggerApplicationTests              - Started JpLoggerApplicationTests in 2.32 seconds (JVM running for 3.73)
-2022-10-13 15:21:39,600 [RMI TCP Connection(94)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2023-10-13 15:21:39,600 [RMI TCP Connection(94)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
